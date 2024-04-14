@@ -1,4 +1,4 @@
-**Oiê! Eu sou a Kelly Silva**
+👋**Oiê! Eu sou a Kelly Silva**
 
 •📚Estudando: Java e JavaScript
 
